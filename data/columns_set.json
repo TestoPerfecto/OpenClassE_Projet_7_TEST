@@ -1,0 +1,21 @@
+{
+	"data_columns": {
+		"CODE_GENDER": null,
+		"CNT_CHILDREN": null,
+		"CNT_FAM_MEMBERS": null,
+		"NAME_FAMILY_STATUS": null,
+		"NAME_EDUCATION_TYPE": null,
+		"NAME_HOUSING_TYPE": null,
+		"FLAG_OWN_REALTY": null,
+		"FLAG_OWN_CAR": null,
+		"AMT_CREDIT_SUM": null,
+		"AMT_INCOME_TOTAL": null,
+		"NAME_INCOME_TYPE": null,
+		"NAME_CONTRACT_TYPE": null,		
+		"CNT_INSTALMENT_FUTURE": null,
+		"CREDIT_ACTIVE": null
+		
+	}
+}
+
+ 

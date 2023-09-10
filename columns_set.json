@@ -1,0 +1,20 @@
+{
+	"data_columns": {
+		"CODE_GENDER": null,
+		"CNT_CHILDREN": null,
+		"CNT_FAM_MEMBERS": null,
+		"NAME_CONTRACT_STATUS": null,
+		"CNT_PAYMENT": null,
+		"AMT_GOODS_PRICE": null,
+		"AMT_ANNUITY_x": null,
+		"FLAG_OWN_CAR": null,
+		"AMT_CREDIT_SUM": null,
+		"AMT_INCOME_TOTAL": null,
+		"CREDIT_ACTIVE": null,
+		"NAME_CLIENT_TYPE": null,		
+		"DAYS_CREDIT": null			
+	}
+}
+
+ 
+        
